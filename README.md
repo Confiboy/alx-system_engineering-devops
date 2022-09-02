@@ -1,1 +1,1 @@
-My first read me
+script that changes the working directory to the user’s home directory

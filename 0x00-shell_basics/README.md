@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+Delete the file betty.

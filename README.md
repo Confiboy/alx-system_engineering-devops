@@ -1,1 +1,1 @@
-My first readme
+this folder is about permission command

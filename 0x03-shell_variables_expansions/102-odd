@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n | grep [13579]        | tr -s  | cut -fz
+paste -- / cut -f1
